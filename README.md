@@ -17,3 +17,7 @@ MVP для работы с учениками, занятиями, оплата�
 ## Контакты
 
 - GitHub: [@Zerro15](https://github.com/Zerro15)
+
+## Превью проекта
+
+![Главная страница мессенджера Mashenin](https://raw.githubusercontent.com/Zerro15/Mashenin/main/screenshots/2026-04-03_23-34-58/04-home.png)
