@@ -15,7 +15,7 @@ TypeScript · Python · Next.js · Fastify · PostgreSQL · Docker
 | Проект | Что это | Технологии |
 | --- | --- | --- |
 | [LoreForge](https://github.com/Zerro15/LoreForge) | Рабочее пространство для мастеров настольных RPG: кампании, сцены, персонажи, NPC и секреты мастера. | TypeScript · Next.js · Fastify · PostgreSQL · Docker |
-| [Vemi](https://github.com/Zerro15/vemi-frontend) | Система для организации личной информации: сохранить заметку, проверить предложение ИИ и добавить материал в память. | Next.js · TypeScript · Python |
+| [Vemi](https://github.com/Zerro15/vemi-frontend) ([backend](https://github.com/Zerro15/vemi-backend), [AI](https://github.com/Zerro15/vemi-ai)) | Система для организации личной информации: сохранить заметку, проверить предложение ИИ и добавить материал в память. | Next.js · TypeScript · Python |
 | [Mashenin](https://github.com/Zerro15/Mashenin) | Самостоятельно размещаемый мессенджер с комнатами и текстовыми сообщениями. | Next.js · Fastify · PostgreSQL · Redis |
 | [ClassFlow](https://github.com/Zerro15/Class) | MVP-платформа для репетиторов: ученики, занятия, оплата и домашние задания. | Python · FastAPI · Next.js · PostgreSQL |
 
@@ -27,8 +27,8 @@ TypeScript · Python · Next.js · Fastify · PostgreSQL · Docker
 
 ## Технологии
 
-**Языки:** TypeScript, JavaScript, Python, C++  
-**Веб:** Next.js, React, Fastify, FastAPI  
+**Языки:** TypeScript, JavaScript, Python, C++<br>
+**Веб:** Next.js, React, Fastify, FastAPI<br>
 **Хранение и запуск:** PostgreSQL, Redis, Docker
 
 ---
