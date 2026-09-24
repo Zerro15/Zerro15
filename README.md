@@ -19,6 +19,13 @@ TypeScript · Python · Next.js · Fastify · PostgreSQL · Docker
 | [Mashenin](https://github.com/Zerro15/Mashenin) | Самостоятельно размещаемый мессенджер с комнатами и текстовыми сообщениями. | Next.js · Fastify · PostgreSQL · Redis |
 | [ClassFlow](https://github.com/Zerro15/Class) | MVP-платформа для репетиторов: ученики, занятия, оплата и домашние задания. | Python · FastAPI · Next.js · PostgreSQL |
 
+## Как выглядят проекты
+
+<p align="center">
+  <a href="https://github.com/Zerro15/LoreForge"><img src="https://raw.githubusercontent.com/Zerro15/LoreForge/main/docs/screenshots/dashboard.png" alt="LoreForge — игровая комната кампании" width="49%" /></a>
+  <a href="https://github.com/Zerro15/vemi-frontend"><img src="https://raw.githubusercontent.com/Zerro15/vemi-frontend/main/screenshots/home.png" alt="Vemi — домашний экран приложения" width="49%" /></a>
+</p>
+
 ## Ещё в работе
 
 - [Browser Command Center](https://github.com/Zerro15/browser-command-center) — Python CLI для управления Chrome через DevTools Protocol.
