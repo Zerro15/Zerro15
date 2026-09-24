@@ -15,7 +15,6 @@ TypeScript · Python · Next.js · Fastify · PostgreSQL · Docker
 | Проект | Что это | Технологии |
 | --- | --- | --- |
 | [LoreForge](https://github.com/Zerro15/LoreForge) | Рабочее пространство для мастеров настольных RPG: кампании, сцены, персонажи, NPC и секреты мастера. | TypeScript · Next.js · Fastify · PostgreSQL · Docker |
-| [Vemi](https://github.com/Zerro15/vemi-frontend) ([backend](https://github.com/Zerro15/vemi-backend), [AI](https://github.com/Zerro15/vemi-ai)) | Система для организации личной информации: сохранить заметку, проверить предложение ИИ и добавить материал в память. | Next.js · TypeScript · Python |
 | [Mashenin](https://github.com/Zerro15/Mashenin) | Самостоятельно размещаемый мессенджер с комнатами и текстовыми сообщениями. | Next.js · Fastify · PostgreSQL · Redis |
 | [ClassFlow](https://github.com/Zerro15/Class) | MVP-платформа для репетиторов: ученики, занятия, оплата и домашние задания. | Python · FastAPI · Next.js · PostgreSQL |
 
@@ -23,7 +22,7 @@ TypeScript · Python · Next.js · Fastify · PostgreSQL · Docker
 
 <p align="center">
   <a href="https://github.com/Zerro15/LoreForge"><img src="https://raw.githubusercontent.com/Zerro15/LoreForge/main/docs/screenshots/dashboard.png" alt="LoreForge — игровая комната кампании" width="49%" /></a>
-  <a href="https://github.com/Zerro15/vemi-frontend"><img src="https://raw.githubusercontent.com/Zerro15/vemi-frontend/main/screenshots/home.png" alt="Vemi — домашний экран приложения" width="49%" /></a>
+  <a href="https://github.com/Zerro15/Mashenin"><img src="https://raw.githubusercontent.com/Zerro15/Mashenin/main/screenshots/2026-04-03_23-34-58/04-home.png" alt="Mashenin — главный экран мессенджера" width="49%" /></a>
 </p>
 
 ## Ещё в работе
